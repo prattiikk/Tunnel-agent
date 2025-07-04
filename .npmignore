@@ -1,0 +1,44 @@
+# Ignore all tests and examples
+__tests__/
+test/
+tests/
+*.test.js
+*.spec.js
+examples/
+example/
+
+# Ignore config files
+*.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+*.log
+
+# Ignore build artifacts
+dist/
+build/
+coverage/
+node_modules/
+
+# Ignore source maps and temporary files
+*.map
+*.swp
+*.tmp
+*.bak
+*.orig
+
+# Ignore docs if not needed
+docs/
+*.md~   # temp edited markdowns
+
+# Ignore TypeScript sources if you publish only JS
+*.ts
+*.tsx
+tsconfig.json
+
+# Ignore Git-related
+.git/
+.gitignore
+.npmignore
+package-lock.json

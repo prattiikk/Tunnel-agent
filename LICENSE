@@ -1,0 +1,27 @@
+Custom License - Non-Commercial Use Only
+
+Copyright (c) 2024 Pratik Shinde
+
+Permission is hereby granted, free of charge, to any person using this software for personal, educational, or research purposes, subject to the following conditions:
+
+1. **Non-Commercial Use Only**  
+   You may not use this software, in whole or in part, for any commercial purpose.  
+   This includes, but is not limited to:
+   - Selling or reselling the software
+   - Hosting it as a paid or freemium service
+   - Using it in any product or service that earns money, directly or indirectly
+   - Using it in consulting, freelance, or enterprise solutions
+
+2. **No SaaS or Public Hosting**  
+   You may not deploy this software as a publicly accessible service or API, even for free.  
+   It is meant to be used locally for experimentation or learning.
+
+3. **Attribution Required**  
+   You must retain this license file and give appropriate credit to the original author (Pratik Shinde) in any copies, forks, or modifications.
+
+4. **No Warranty**  
+   This software is provided "as-is" without any warranty. The author is not liable for any damage or loss caused by the use of this software.
+
+If you would like to use this project commercially or publicly, please contact the author for licensing options.
+
+Email: pvks5423@gmail.com
